@@ -17,12 +17,13 @@ def obj_2_json(obj):
     }
 
 if __name__ == "__main__":
-    basepath='涨粉邦/web/正式版本/html/'
-    file_common=open('涨粉邦/补充/公共补充.txt', "r")
-    shutil.copy('涨粉邦/补充/favicon.ico', basepath+'images/')
+    basepath='zfb/web/正式版本/html/'
+    file_common=open('zfb/补充/公共补充.txt', "r")
+    shutil.copy('zfb/补充/favicon.ico', basepath+'images/')
     content_add_common=file_common.read()  #获取需要添加的公告信息
     file_common.close()
-    htmls = [Html('index','自媒体人聚集地'),Html('product','免费高效互粉工具')]
+    htmls = [Html('index','公众号涨粉资源及运营教程 - 涨粉邦'),Html('product','高效实用运营涨粉工具 - 涨粉邦'),Html('vip','加入会员免费获取全部资源 - 涨粉邦'),
+             Html('course', '从零开始学运营教程分享 - 涨粉邦'),Html('material', '自媒体人运营必备网站和实用工具 - 涨粉邦')]
     json_html=json.dumps(htmls, default=obj_2_json,ensure_ascii=False)
     sucess_html=[]
     for html in htmls:

@@ -1,6 +1,6 @@
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">  <!--添加ico图标-->
-    <meta name="description" content="Axure原型模板及Axure元件库原创作品，Axure原型设计教程分享，助你快速打造友好美观的交互原型">  <!--描述文字-->
-    <meta name="keyword" content="Axure原型模板,Axure元件库,Axure组件库,Axure实用教程,Axure后台系统原型模板,Axure电商原型模板,Axure高保真原型,产品经理,交互设计师,交互原型设计,交互原型实例,Axure RP,Axure 8.0,Axure安装程序,Axure最新授权码">  <!--关键词--> 
+    <meta name="description" content="公众号高质量涨粉工具及运营教程，助你快速打造活跃友好的私欲流量">  <!--描述文字-->
+    <meta name="keyword" content="公众号涨粉,公众号工具,公众号排版,公众号教程,自媒体网站导航,公众号运营,公众号裂变,公众号互粉,公众号互阅,公众号赚钱,自媒体营销,自媒体运营,自媒体赚钱,新媒体运营,运营工具,互联网运营,营销学习">  <!--关键词--> 
 	<!--百度统计开始--> 
 	<script>
 	var _hmt = _hmt || [];

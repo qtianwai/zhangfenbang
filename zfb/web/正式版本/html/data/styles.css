@@ -8,7 +8,7 @@
   line-height:normal;
 }
 ._自定义1_14_ {
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -22,6 +22,13 @@
   color:#666666;
 }
 .ellipse {
+}
+._形状 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
 }
 .image {
 }
@@ -38,12 +45,46 @@
   font-size:14px;
   text-align:left;
 }
+.line {
+}
 .table_cell {
 }
 ._文本段落 {
   text-align:left;
 }
 .fontawesome {
+}
+.axurefun_主导航栏标题 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#262626;
+  line-height:26px;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标按下文本链接时 {
+}
+.axurefun_页面一级标题 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#262626;
+  line-height:24px;
+}
+.shape {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_2 {
 }
 ._四级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -65,12 +106,7 @@
   font-size:10px;
   text-align:left;
 }
-._文本链接 {
-  color:#0000FF;
-}
 ._鼠标悬停文本链接时 {
-}
-._鼠标按下文本链接时 {
 }
 ._流程形状 {
 }
@@ -180,7 +216,7 @@
 ._连接线 {
   color:#333333;
 }
-._形状 {
+._形状1 {
   font-size:13px;
   color:#000000;
 }
@@ -228,7 +264,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-._形状1 {
+._形状2 {
 }
 .basicbutton-outline {
   font-family:'Roboto Regular', 'Roboto';
@@ -323,7 +359,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-.box_2 {
+.box_21 {
 }
 .image1 {
   color:#000000;
@@ -349,14 +385,8 @@
 }
 .snapshot {
 }
-.box_21 {
-}
 .sticky_1 {
   text-align:left;
 }
 .flow_shape {
-}
-._形状2 {
-}
-.line {
 }
