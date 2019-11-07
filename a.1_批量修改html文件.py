@@ -18,6 +18,8 @@ def obj_2_json(obj):
 
 if __name__ == "__main__":
     basepath='zfb/web/正式版本/html/'
+	shutil.copy('zfb/补充/搜狗搜索/sogousiteverification.txt',basepath)  #复制搜狗验证搜索文件到html根目录下
+	shutil.copy('zfb/补充/百度搜索/baidu_verify_ELm0xLlMAo.html',basepath)  #复制百度验证搜索文件到html根目录下
     file_common=open('zfb/补充/公共补充.txt', "r")
     shutil.copy('zfb/补充/favicon.ico', basepath+'images/')
     content_add_common=file_common.read()  #获取需要添加的公告信息
