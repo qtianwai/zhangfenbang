@@ -8,7 +8,7 @@
   line-height:normal;
 }
 ._自定义1_14_ {
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -55,7 +55,7 @@
 .fontawesome {
 }
 .axurefun_主导航栏标题 {
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -68,7 +68,7 @@
 ._鼠标按下文本链接时 {
 }
 .axurefun_页面一级标题 {
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:16px;
